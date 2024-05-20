@@ -92,7 +92,7 @@ button{
     margin-bottom: 35px;
 }
 
-@media (max-width:765px){
+@media (max-width:768px){
     main{
         width: 370px;
         height: 600px;
